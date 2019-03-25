@@ -1,0 +1,21 @@
+/*Selector{
+	Propertty: value;
+}*/
+
+
+
+body{
+
+	background-image: url(back.jpg);
+	background-size: cover;
+	background-color: green;
+	background-blend-mode: screen;
+}
+
+h1{
+
+	text-align: center;
+	color: white;
+	font-size: 110px;
+	font-family: 'Black Ops One', cursive;
+}
