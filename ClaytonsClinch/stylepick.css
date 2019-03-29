@@ -28,7 +28,8 @@ img:hover{
 
 	transform: scale(1.1);
 }
-
+/*This is the missing peice, that caused my code to not work. 
+Super big thanks to Stephen for solving this problem!*/
 .fade {
 	display: none;
 }
